@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add your sitemap URL here after deployment if you want deeper indexing support.
