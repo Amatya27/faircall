@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-# Add your sitemap URL here after deployment if you want deeper indexing support.
+Sitemap: https://amatya27.github.io/faircall/sitemap.xml
